@@ -2,3 +2,4 @@ Udemyの口座でGitのレッスンを（また）受講しているよ！（前
 - git add
 -git commit
 どうして？
+どこへ行った？
