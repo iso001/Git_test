@@ -3,4 +3,5 @@ Udemyの口座でGitのレッスンを（また）受講しているよ！（前
 -git commit
 どうして？
 どこへ行った？
+git diff
 テスト
